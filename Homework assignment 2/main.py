@@ -1,6 +1,3 @@
-# Lilia Skumatova
-# CPSC 231
-# Homework Assignment 2
 from turtlesetup_plot import *
 
 # Asks how many points the user want's to plot
