@@ -1,7 +1,3 @@
-#  Homework Assignment 1
-# Lilia Skumatova Lecture 01 UCID: 30187339
-
-# Import turtle for drawings
 from turtlesetup import *
 
 print("Here are a square, a triangle, a pentagon, and a star!")
